@@ -1,4 +1,4 @@
-# CS50's Web Programming with Python and JavaScript - Project
+# CS50's Web Programming with Python and JavaScript - New Year Project
 This repository contains a solution to one of the assignments from **CS50's Web Programming with Python and JavaScript**. 
 
 ## Assignment Details
